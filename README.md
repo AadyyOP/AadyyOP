@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AadyyOP
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# and Python
 - 💞️ I’m looking to collaborate on Game Developing
-- 📫 How to reach me at aadysharma.coder@gmail.com
+- 📫 Reach me at aadysharma.coder@gmail.com
 - 😄 Pronouns: OP
 - ⚡ Fun fact: I'm a gamer too!
 
